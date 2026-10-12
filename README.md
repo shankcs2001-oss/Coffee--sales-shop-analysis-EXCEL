@@ -12,13 +12,13 @@ A Coffee Shop Sales Analysis project using Microsoft Excel, where I worked with 
 
 **Concepts used**
 
-• Data cleaning and preparation
-• Sales and transaction analysis
-• Pivot Tables & Pivot Charts
-• Filtering and sorting data
-• Monthly and hourly sales analysis
-• Identifying sales trends and patterns
-• Creating an interactive dashboard
+Data cleaning and preparation
+Sales and transaction analysis
+Pivot Tables & Pivot Charts
+Filtering and sorting data
+Monthly and hourly sales analysis
+Identifying sales trends and patterns
+Creating an interactive dashboard
 
 **Business insights**
 1. February is the lowest sale month with deprivation of coffee beans category.
