@@ -25,5 +25,4 @@ A Coffee Shop Sales Analysis project using Microsoft Excel, where I worked with 
 2. In peak hours from 8am to 10am are the busiest hours with max orders.
 3. In weekdays Friday's contain the highest orders.
 4. Barista expresso gains the highest sale in product performance.
-5. Larger size cup g
 
