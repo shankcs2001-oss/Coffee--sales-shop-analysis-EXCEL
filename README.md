@@ -11,6 +11,7 @@ A Coffee Shop Sales Analysis project using Microsoft Excel, where I worked with 
 5. Customer purchasing patterns: How transaction activity varied by time and product.
 
 **Concepts used**
+
 • Data cleaning and preparation
 • Sales and transaction analysis
 • Pivot Tables & Pivot Charts
